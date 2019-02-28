@@ -1,2 +1,1 @@
-# zasady
-Program i zasady zaliczenia przedmiotu
+# Program i zasady zaliczenia przedmiotu
